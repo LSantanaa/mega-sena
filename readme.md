@@ -10,6 +10,6 @@
 
 > No projeto há tratamentos de erros para prevenir possíveis problemas, como o bloqueio de salvar jogos com menos de 6 números, impedir que o sistema gere números iguais para um mesmo jogo e também impede que você selecione mais de 6 números
 
-- [Acesse Aqui](https://lsantanaa.github.io/tele-sena)
+- [Acesse Aqui](https://lsantanaa.github.io/mega-sena)
 
 ##### Agradecimentos a XPE e aos professores Raphael Gomide e Guilherme Assis
